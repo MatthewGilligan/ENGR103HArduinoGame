@@ -12,4 +12,8 @@ My main inputs are the left and right buttons.
 My main outputs are sound when the player hits the button with the correct timing, as well as lights that are constantly on display. 
 The output of sound corresponds to the input of the button being pressed and relies on checking if the top pin is lit. 
 
+### Instructions:
+- Hit upload
+- Hit the left and right buttons when their side is lit
+- Go for a high score!
 
